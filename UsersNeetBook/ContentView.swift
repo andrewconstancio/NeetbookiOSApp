@@ -19,7 +19,7 @@ struct ContentView: View {
                     CurrentlyReadingView()
                 }
                 .tabItem {
-                    Text("Reading")
+                    Text("Reading!!!!")
                 }
                 NavigationView {
                     WantToReadView()
